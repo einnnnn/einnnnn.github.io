@@ -1,5 +1,5 @@
 title: Kenryan Luke Arias # your name (or website title) here
-logo: "C:\Users\15gyn\OneDrive\Documents\GitHub\einnnnn.github.io\images\logo.png" # your photo (or logo) here
+logo: "/images/logo.png?raw=true"  # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
